@@ -1,0 +1,64 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	
+}
+
+header{
+	background-color: tomato;
+}
+
+section .col-md-12{
+	display: inline-block;
+	justify-content:space-evenly;
+	width: 100%;
+	
+	
+}
+section .col-md-12 h1{
+	text-align: center;
+}
+section .col-md-12 .subtitulos{
+	background-color: tomato;
+	padding: 12px;
+	border-radius: 30px;
+	margin: 0px;
+	text-align: start;
+	width: 30%;
+}
+section .col-md-12 img{
+	width: 50%;
+	border-radius: 30px;
+	display: flex;
+	margin-left: 25%;
+}
+
+section .col-md-12 a .twitter{
+	display: none;
+}
+
+nav a{
+	display: flex;
+	justify-content: center;
+}
+section {
+	background-color: turquoise;
+	padding-bottom: 0px;
+	display: flex;
+	
+}
+
+section article img{
+	width: 50%;
+	height: 50%;
+}
+
+section .buzo{
+	display: flex;
+	
+}
+
+section .buzo img{
+	align-items: center;
+}
