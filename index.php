@@ -1,29 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <title>FASHIONSHOP</title>
-    <!-- BOOTSTRAP CSS -->
-    <link
-      rel="stylesheet"
-      href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css"
-      integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB"
-      crossorigin="anonymous"
-    />
-    
-    <link
-      rel="stylesheet"
-      href="https://use.fontawesome.com/releases/v5.0.13/css/all.css"
-      integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp"
-      crossorigin="anonymous"
-    />
-    
-    <link rel="stylesheet" href="css/estilos.css" />
-  </head>
+<?php
+include "header.php"
+?>
+
+
+
+<!-- NAVIGATION -->
   <body>
-
-
-    <!-- NAVIGATION -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
       <div class="container">
         <button
@@ -113,11 +95,6 @@
         </div>
       </div>
     </header>
-
-
-
-
-
 
 
     
