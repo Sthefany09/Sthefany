@@ -149,7 +149,6 @@
               relacionados con la forma de vida del individuo.
 			</p>
 			
-      <p></p>
 
 			<img src="Imagenes/lala.jpg" alt="">
           </div>
