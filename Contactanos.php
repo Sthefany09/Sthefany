@@ -1,7 +1,5 @@
-<?php 
-include "header.php";
-?>
-  
+
+
 
     <meta charset="UTF-8" />
     <title>Contactanos</title>
