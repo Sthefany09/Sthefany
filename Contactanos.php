@@ -1,9 +1,11 @@
 <?php 
-include "header.php" 
+include "header.php";
 ?>
-    
+  
 
-
+    <meta charset="UTF-8" />
+    <title>Contactanos</title>
+    <!-- BOOTSTRAP CSS -->
     <link
       rel="stylesheet"
       href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css"
@@ -140,8 +142,57 @@ font-size: 20px;
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNav">
-          
-          
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+              <li class="nav-item">
+                <a class="nav-link" href="index.html">Inicio</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="Nosotros.html">Nosotros</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="Servicios.html">Servicios</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="Contactanos.html">Contactanos</a>
+            </li>
+            <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Mujer
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+             
+            <a class="dropdown-item" href="#">Blusas</a>
+            <a class="dropdown-item" href="#">Jeans</a>
+            <a class="dropdown-item" href="#">Chaquetas</a>
+            <a class="dropdown-item" href="#">Vestidos</a>
+            <a class="dropdown-item" href="#">Accesorios</a>
+            <a class="dropdown-item" href="#">Faltas y Shorts</a>
+          </div>
+        </li>
+
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Hombre
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+             
+            <a class="dropdown-item" href="#">Camisetas</a>
+            <a class="dropdown-item" href="#">Jeans</a>
+            <a class="dropdown-item" href="#">Chaquetas - buzos</a>
+            <a class="dropdown-item" href="#">Accesorios</a>
+            
+          </div>
+        </li>
+         
+      </ul>
+      
+      <form class="form-inline my-2 my-lg-0">
+        <input class="form-control mr-sm-2" type="search" placeholder="Busca tu producto" aria-label="Search">
+        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Buscar</button>
+      </form>
+    </div>
+  </nav>
     <!-- NAVIGATION -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
       <div class="container">
