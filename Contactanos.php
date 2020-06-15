@@ -1,4 +1,6 @@
-
+<?php 
+include "header.php";
+?>
   
 
     <meta charset="UTF-8" />
