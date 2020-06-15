@@ -65,16 +65,16 @@ include "header.php"
           <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav ml-auto">
               <li class="nav-item">
-                <a class="nav-link" href="index.html">Inicio</a>
+                <a class="nav-link" href="index.php">Inicio</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="Nosotros.html">Nosotros</a>
+              <a class="nav-link" href="Nosotros.php">Nosotros</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="Servicios.html">Servicios</a>
+              <a class="nav-link" href="Servicios.php">Servicios</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="Contactanos.html">Contactanos</a>
+              <a class="nav-link" href="Contactanos.php">Contactanos</a>
               </li>
             </ul>
           </div>
