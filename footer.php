@@ -1,12 +1,5 @@
-
-
-
-
-
-
 <!-- pie de pagina -->
 <footer>
-	<h1>Este es el pie de pagina</h1>
 		<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
 			<div class="container">
 			  <button
