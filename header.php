@@ -23,6 +23,7 @@
   <body>
 
 
+
       <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
       <div class="container">
@@ -93,7 +94,7 @@
   <!-- HEADER -->
     <header class="main-header">
       <div class="background-overlay text-white py-5">
-        <div class="container">
+        <div class="container" background-color: black >
           <div class="row d-flex h-100">
             <div
               class="col-sm-6 text-center justify-content-center align-self-center"
@@ -108,8 +109,6 @@
         </div>
       </div>
     </header>
-
-
 
 
 
