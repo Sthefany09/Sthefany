@@ -20,6 +20,39 @@
     
     <link rel="stylesheet" href="css/estilos.css" />
   </head>
+
+  <style>
+
+body{
+
+background-color: black  
+
+}
+ 
+.space{
+
+margin-top: 2%;
+
+}
+
+
+.contenedor{
+
+
+margin-left: 15%;
+
+}
+
+label{
+
+color: white; 
+font-size: 20px; 
+
+}
+
+</style>
+
+  
   <body>
 
 
@@ -95,7 +128,6 @@
 
     <header class="main-header">
       <div class="background-overlay text-white py-5">
-        <div class="background-color: black"
         <div class="container" 
           <div class="row d-flex h-100">
             <div
@@ -108,7 +140,6 @@
             </div>
             <div class="col-sm-6"></div>
           </div>
-        </div>
         </div>
       </div>
     </header>
