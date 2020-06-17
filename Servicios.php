@@ -3,25 +3,7 @@ include "header.php"
 ?>
     
          
-    <!-- HEADER -->
-    <header class="main-header">
-      <div class="background-overlay text-white py-5">
-        <div class="container">
-          <div class="row d-flex h-100">
-            <div
-              class="col-sm-6 text-center justify-content-center align-self-center"
-            >
-              <h1>
-                FASHIONSHOP
-              </h1>
-             
-
-            </div>
-            <div class="col-sm-6"></div>
-          </div>
-        </div>
-      </div>
-    </header>
+    
 
     <!-- NEWSLETTER  -->
     <section id="newsletter" class="bg-dark text-white py-5">
