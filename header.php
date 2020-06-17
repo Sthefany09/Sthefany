@@ -92,8 +92,10 @@
   </nav>
 
   <!-- HEADER -->
+
     <header class="main-header">
-      <div class="background-overlay text-black py-5">
+      <div class="background-overlay text-white py-5">
+        <div class="background-color: black"
         <div class="container" 
           <div class="row d-flex h-100">
             <div
@@ -106,6 +108,7 @@
             </div>
             <div class="col-sm-6"></div>
           </div>
+        </div>
         </div>
       </div>
     </header>
