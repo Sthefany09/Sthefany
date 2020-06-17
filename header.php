@@ -93,8 +93,8 @@
 
   <!-- HEADER -->
     <header class="main-header">
-      <div class="background-overlay text-white py-5">
-        <div class="container" background-color: black >
+      <div class="background-overlay text-black py-5">
+        <div class="container" 
           <div class="row d-flex h-100">
             <div
               class="col-sm-6 text-center justify-content-center align-self-center"
