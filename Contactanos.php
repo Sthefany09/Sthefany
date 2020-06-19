@@ -78,9 +78,6 @@ include "header.php"
 
 }
 
-
-
-
 </script>
 
     
@@ -92,44 +89,11 @@ include "header.php"
     />
     
     <link rel="stylesheet" href="css/estilos.css" />
-
-
-  </head>
-
+    
   
-  <style>
-
-body{
-
-background-color: black  
-
-}
- 
-.space{
-
-margin-top: 2%;
-
-}
+  
 
 
-.contenedor{
-
-
-margin-left: 15%;
-
-}
-
-label{
-
-color: white; 
-font-size: 20px; 
-
-}
-
-
-
-
-</style>
   <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
       <div class="container">
