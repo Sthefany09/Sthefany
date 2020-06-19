@@ -91,7 +91,36 @@ include "header.php"
     <link rel="stylesheet" href="css/estilos.css" />
     
   
-  
+  <style>
+
+body{
+
+background-color: black  
+
+}
+ 
+.space{
+
+margin-top: 2%;
+
+}
+
+
+.contenedor{
+
+
+margin-left: 15%;
+
+}
+
+label{
+
+color: white; 
+font-size: 20px; 
+
+}
+
+</style>
 
 
   <body>
@@ -112,16 +141,16 @@ include "header.php"
           <ul class="navbar-nav ml-auto">
             <li class="nav-item">
               <li class="nav-item">
-                <a class="nav-link" href="index.html">Inicio</a>
+                <a class="nav-link" href="index.php">Inicio</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="Nosotros.html">Nosotros</a>
+              <a class="nav-link" href="Nosotros.php">Nosotros</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="Servicios.html">Servicios</a>
+              <a class="nav-link" href="Servicios.php">Servicios</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="Contactanos.html">Contactanos</a>
+              <a class="nav-link" href="Contactanos.php">Contactanos</a>
             </li>
             <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
