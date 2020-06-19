@@ -159,7 +159,7 @@ font-size: 20px;
               brevedad.
             </p>
 
-            <img src="Imagenes/contactenosimagen.jpg" />
+            <img src="Imagenes/contactenosimagen.php" />
 
 
 
