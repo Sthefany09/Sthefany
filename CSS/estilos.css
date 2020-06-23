@@ -15,7 +15,7 @@ header{
 
 }
 
-header .main-header .col-sm-6 h1{
+header h1{
 	text-align: center;
 	color: red;
 }
@@ -50,6 +50,7 @@ section .col-md-12 a .twitter{
 }
 
 nav a{
+	background: red;
 	display: flex;
 	justify-content: center;
 }
