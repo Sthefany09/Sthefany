@@ -217,7 +217,8 @@ font-size: 20px;
 
 
 
-            <iframe src="Pagina web\Javascript\Formulario/formulario.html" height="500" width="1200"></iframe> //Twitter
+            <iframe src="Pagina web\Javascript\Formulario/formulario.html" height="500" width="1200"></iframe> 
+            
           </div>
         </div>
       </div>

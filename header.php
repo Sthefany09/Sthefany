@@ -119,8 +119,8 @@ font-size: 20px;
          
       </ul>
       
-      <form class="form-inline my-2 my-lg-0">
-        <input class="form-control mr-sm-2" type="search" placeholder="Busca tu producto" aria-label="Search">
+      <form class="form-inline my-2 my-lg-0" action="controlador/login.php" method="post"> 
+        <input class="form-control mr-sm-2" name="usuario" type="search" placeholder="Busca tu producto" aria-label="Search">
         <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Buscar</button>
       </form>
     </div>
