@@ -30,22 +30,22 @@ include "header.php";
     <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-90" src="Imagenes/dd.jpg" alt="First slide">
+      <img class="d-block w-50" src="Imagenes/dd.jpg" alt="First slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-90" src="Imagenes/negro.jpg" alt="Second slide">
+      <img class="d-block w-50" src="Imagenes/negro.jpg" alt="Second slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-90" src="Imagenes/vestidonegro2.jpg" alt="Third slide">
+      <img class="d-block w-50" src="Imagenes/vestidonegro2.jpg" alt="Third slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-90" src="Imagenes/chaquetahombre.jpg" alt="Third slide">
+      <img class="d-block w-50" src="Imagenes/chaquetahombre.jpg" alt="Third slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-90" src="Imagenes/pantalonhombre.jpg" alt="Third slide">
+      <img class="d-block w-50" src="Imagenes/pantalonhombre.jpg" alt="Third slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-90" src="Imagenes/zapatos.jpg" alt="Third slide">
+      <img class="d-block w-50" src="Imagenes/zapatos.jpg" alt="Third slide">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
