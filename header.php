@@ -184,6 +184,7 @@ font-size: 20px;
   
 
 
+
     <!-- BOOTSTRAP SCRIPTS -->
     <script
       src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
@@ -204,3 +205,7 @@ font-size: 20px;
 </html>
 
 
+<?php 
+include "footer.php";
+?>
+    
