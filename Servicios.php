@@ -30,13 +30,13 @@ include "header.php";
     <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="Imagenes/dd.jpg" alt="First slide">
+      <img class="d-block w-50" src="Imagenes/dd.jpg" alt="First slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="Imagenes/negro.jpg" alt="Second slide">
+      <img class="d-block w-50" src="Imagenes/negro.jpg" alt="Second slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="Imagenes/vestidonegro2" alt="Third slide">
+      <img class="d-block w-50" src="Imagenes/vestidonegro2" alt="Third slide">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
@@ -49,16 +49,7 @@ include "header.php";
   </a>
 </div>
 
-    <section class="sect2">
-      <article class="buzo">
-        <img  src="Imagenes/dd.jpg" alt="">
-        <img src="Imagenes/negro.jpg" alt="">
-        <img src="Imagenes/vestidonegro2.jpg" alt="">
-        <img src="Imagenes/vestidonegro.jpg" alt="">
-      </article>
-    
-      
-    </section>
+   
 
   
 
