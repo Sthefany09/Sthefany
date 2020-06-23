@@ -61,6 +61,25 @@ font-size: 20px;
 
 
       <body>
+
+         <header class="main-header">
+      <div class="background-overlay text-white py-5">
+        <div class="container" 
+          <div class="row d-flex h-100">
+            <div
+              class="col-sm-6 text-center justify-content-center align-self-center"
+            >
+              <h1>
+                FASHIONSHOP
+              </h1>
+              
+            </div>
+            <div class="col-sm-6"></div>
+          </div>
+        </div>
+      </div>
+    </header>
+    
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
       <div class="container">
         <button
@@ -129,23 +148,7 @@ font-size: 20px;
 
   <!-- HEADER -->
 
-    <header class="main-header">
-      <div class="background-overlay text-white py-5">
-        <div class="container" 
-          <div class="row d-flex h-100">
-            <div
-              class="col-sm-6 text-center justify-content-center align-self-center"
-            >
-              <h1>
-                FASHIONSHOP
-              </h1>
-              
-            </div>
-            <div class="col-sm-6"></div>
-          </div>
-        </div>
-      </div>
-    </header>
+   
 
     
 
