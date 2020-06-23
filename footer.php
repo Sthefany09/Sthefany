@@ -1,8 +1,3 @@
-<?php 
-include "header.php";
-?>
-
-
 <!-- pie de pagina -->
 <footer>
 		<nav class="navbar navbar-expand-lg navbar-dark bg-dark">

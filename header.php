@@ -167,3 +167,8 @@ font-size: 20px;
     ></script>
   </body>
 </html>
+
+
+<?php 
+include "footer.php";
+?>
