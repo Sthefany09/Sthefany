@@ -15,8 +15,9 @@ header{
 
 }
 
-header .main-header h1{
+header .main-header .col-sm-6 text-center justify-content-center align-self-center h1{
 	text-align: center;
+	color: red;
 }
 
 section .col-md-12{
