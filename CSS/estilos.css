@@ -15,8 +15,8 @@ header{
 
 }
 
-header h1{
-	
+header .main-header h1{
+	text-align: center;
 }
 
 section .col-md-12{
