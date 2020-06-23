@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <title>FASHIONSHOP</title>
-    <link rel="stylesheet" type="text/css" href="Javacript/CSS/estilos.css">
+    <link rel="stylesheet" type="text/css" href="Pagina web/Javacript/CSS/estilos.css">
     <!-- BOOTSTRAP CSS -->
     <link
       rel="stylesheet"
