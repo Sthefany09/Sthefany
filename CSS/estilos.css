@@ -49,6 +49,10 @@ section .col-md-12 a .twitter{
 	display: none;
 }
 
+section .col-md-12{
+	background: red;
+}
+
 nav a{
 	background: red;
 	display: flex;
