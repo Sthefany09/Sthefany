@@ -1,9 +1,5 @@
-<?php 
-include "header.php";
-?>
-    
-         
-    
+
+          
 
     <!-- NEWSLETTER  -->
     <section id="newsletter" class="bg-dark text-white py-5">
