@@ -174,7 +174,5 @@ font-size: 20px;
 </html>
 
 
-<?php 
-include "footer.php";
-?>
+
     
