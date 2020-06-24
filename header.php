@@ -139,8 +139,19 @@ font-size: 20px;
             
           </div>
         </li>
+         
+      </ul>
 
-        
+      
+      <form class="form-inline my-2 my-lg-0" action="controlador/login.php" method="post"> 
+        <input class="form-control mr-sm-2" name="usuario" type="search" placeholder="Busca tu producto" aria-label="Search">
+        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Buscar</button>
+      </form>
+    </div>
+  </nav>
+
+  
+   
        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
@@ -157,23 +168,6 @@ font-size: 20px;
     <span class="sr-only">Next</span>
   </a>
 </div>
-         
-      </ul>
-
-
-
-
-      
-      <form class="form-inline my-2 my-lg-0" action="controlador/login.php" method="post"> 
-        <input class="form-control mr-sm-2" name="usuario" type="search" placeholder="Busca tu producto" aria-label="Search">
-        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Buscar</button>
-      </form>
-    </div>
-  </nav>
-
-  <!-- HEADER -->
-
-   
 
     
 
