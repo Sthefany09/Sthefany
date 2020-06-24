@@ -30,10 +30,10 @@ include "header.php";
     <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="Imagenes/collaje.jpg" alt="First slide">
+      <img class="d-block w-50" src="Imagenes/jaja.jpg" alt="First slide">
     </div>
     <div class="carousel-item active">
-      <img class="d-block w-100" src="Imagenes/ropa2.jpg" alt="First slide">
+      <img class="d-block w-100" src="Imagenes/collaje.jpg" alt="First slide">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
