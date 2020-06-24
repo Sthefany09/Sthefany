@@ -17,7 +17,7 @@ header{
 
 header h1{
 	text-align: center;
-	color: black;
+	color: white;
 }
 
 section .col-md-12{
@@ -31,7 +31,7 @@ section .col-md-12 h1{
 	text-align: center;
 }
 section .col-md-12 .subtitulos{
-	background-color: tomato;
+	background-color: black;
 	padding: 12px;
 	border-radius: 30px;
 	margin: 0px;
@@ -54,7 +54,7 @@ section .col-md-12{
 }
 
 nav a{
-	background: red;
+	background: black;
 	display: flex;
 	justify-content: center;
 }
