@@ -159,6 +159,7 @@ font-size: 20px;
     </div>
 
 
+
     <h1> HISTORIADORES DE CORAZON </h1>
 
     <h2> FASHIONSHOW </h2>
@@ -166,11 +167,11 @@ font-size: 20px;
     <h3> Tienda de ropa hombre y mujer, denim brand
     Todo está en los detalles, desde la inspiración de todas las colecciones, hasta nuestra propia manera de pensar.
 
-    En COLOR BLUE buscamos ser auténticos y no una réplica, una marca que no pierde su esencia.</h3>
+    En FASHIONSHOW buscamos ser auténticos y no una réplica, una marca que no pierde su esencia.</h3>
 
 
     <div class="carousel-item active">
-      <img class="d-block w-70" src="Imagenes/rock.jpg" alt="First slide">
+      <img class="d-block w-70" src="Imagenes/rock.jpg" "Imagenes/ropa.jpg" alt="First slide">
     </div>
     
   </div>

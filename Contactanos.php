@@ -227,3 +227,6 @@ font-size: 20px;
     
 
 
+<?php 
+include "footer.php"
+?>
