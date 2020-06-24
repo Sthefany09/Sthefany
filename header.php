@@ -152,7 +152,7 @@ font-size: 20px;
 
   
    
-       <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+ <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img class="d-block w-100" src="Imagenes/blu1.jpg" alt="First slide">
@@ -197,4 +197,6 @@ font-size: 20px;
 
 
 
-    
+<?php 
+include "footer.php";
+?>

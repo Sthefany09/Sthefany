@@ -1,5 +1,5 @@
 <?php 
-include "header.php";
+include "header.php"
 ?>
 
 
@@ -226,7 +226,4 @@ font-size: 20px;
 
     
 
-<?php 
-include "footer.php";
-?>
 
