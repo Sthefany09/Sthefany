@@ -80,25 +80,7 @@ font-size: 20px;
       </div>
     </header>
 
-    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img class="d-block w-50" src="Imagenes/rock.jpg" alt="First slide">
-    </div>
-    <div class="carousel-item active">
-      <img class="d-block w-100" src="Imagenes/collaje.jpg" alt="First slide">
-    </div>
-  </div>
-  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-</div>
-
+   
 
 
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
@@ -159,6 +141,26 @@ font-size: 20px;
         </li>
          
       </ul>
+
+
+
+       <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="Imagenes/rock.jpg" alt="First slide">
+    </div>
+    
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+
       
       <form class="form-inline my-2 my-lg-0" action="controlador/login.php" method="post"> 
         <input class="form-control mr-sm-2" name="usuario" type="search" placeholder="Busca tu producto" aria-label="Search">
