@@ -155,7 +155,7 @@ font-size: 20px;
  <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-70" src="Imagenes/blu.jpg" alt="First slide">
+      <img class="d-block w-70" src="Imagenes/blu1.jpg" alt="First slide">
     </div>
 
 
@@ -171,7 +171,7 @@ font-size: 20px;
 
 
     <div class="carousel-item active">
-      <img class="d-block w-100" src="Imagenes/rock.jpg"  alt="First slide">
+      <img class="d-block w-100" src="Imagenes/blu2.jpg"  alt="First slide">
     </div>
     
   
