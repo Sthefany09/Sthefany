@@ -171,7 +171,7 @@ font-size: 20px;
 
 
     <div class="carousel-item active">
-      <img class="d-block w-70" src="Imagenes/rock.jpg" src="Imagenes/ropa.jpg" alt="First slide">
+      <img class="d-block w-100" src="Imagenes/rock.jpg"  alt="First slide">
     </div>
     
   </div>
