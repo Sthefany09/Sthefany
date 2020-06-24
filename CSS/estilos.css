@@ -17,6 +17,7 @@ header{
 header h1{
 	text-align: center;
 	color: white;
+	border-radius:solid 20px yellow;
 }
 
 section .col-md-12{
