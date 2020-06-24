@@ -69,9 +69,9 @@ font-size: 20px;
             <div
               class="col-sm-6 text-center justify-content-center align-self-center"
             >
-              <h1>
+              <h1 class="tittle"> 
                 FASHIONSHOP
-              </h1>
+              </h1> 
               
             </div>
             <div class="col-sm-6"></div>

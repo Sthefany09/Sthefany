@@ -14,7 +14,7 @@ header{
 
 }
 
-header h1{
+header .tittle{
 	text-align: center;
 	color: yellow;
 	border-radius:solid 20px yellow;
