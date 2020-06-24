@@ -139,11 +139,8 @@ font-size: 20px;
             
           </div>
         </li>
-         
-      </ul>
 
-
-
+        
        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
@@ -160,6 +157,11 @@ font-size: 20px;
     <span class="sr-only">Next</span>
   </a>
 </div>
+         
+      </ul>
+
+
+
 
       
       <form class="form-inline my-2 my-lg-0" action="controlador/login.php" method="post"> 
